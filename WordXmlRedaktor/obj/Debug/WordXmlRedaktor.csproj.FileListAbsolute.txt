@@ -1,0 +1,8 @@
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\bin\Debug\WordXmlRedaktor.exe
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\bin\Debug\WordXmlRedaktor.pdb
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\obj\Debug\WordXmlRedaktor.exe
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\obj\Debug\WordXmlRedaktor.pdb
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\obj\Debug\WordXmlRedaktor.MainForm.resources
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\obj\Debug\GenerateResource.read.1.tlog
+C:\MyDOC\Проекты\C#\Developer\WordXmlRedaktor\WordXmlRedaktor\obj\Debug\GenerateResource.write.1.tlog
